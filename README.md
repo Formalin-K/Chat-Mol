@@ -1,5 +1,5 @@
----
-```markdown
+
+
 # 🧪 MolT5 Playground: Graph-based Multimodal Chemistry LLM
 
 **MolT5 Playground** is an experimental framework for training and evaluating multimodal models that bridge **chemical structure (graphs)** and **natural language**.  
