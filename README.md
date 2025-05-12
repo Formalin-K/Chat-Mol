@@ -1,5 +1,3 @@
----
-
 ```markdown
 # 🧪 MolT5 Playground: Graph-based Multimodal Chemistry LLM
 
@@ -145,5 +143,3 @@ See `LICENSE` for details.
 This is a **work-in-progress** project.  
 If you’re exploring similar problems or want to build on this idea, feel free to open issues or PRs. Feedback is always appreciated!
 ```
-
----
